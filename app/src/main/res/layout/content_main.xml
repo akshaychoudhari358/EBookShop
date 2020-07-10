@@ -11,7 +11,7 @@
 
         <variable
             name="secondaryClickHandler"
-            type="com.androidtutz.anushka.ebookshop.MainActivity.MainActivityClickHandlers" />
+            type="com.androidlearn.akshay.ebookshop.MainActivity.MainActivityClickHandlers" />
 
     </data>
 

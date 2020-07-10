@@ -5,10 +5,10 @@
     <data>
         <variable
             name="clickHandler"
-            type="com.androidtutz.anushka.ebookshop.AddAndEditActivity.AddAndEditActivityClickHandlers"/>
+            type="com.androidlearn.akshay.ebookshop.AddAndEditActivity.AddAndEditActivityClickHandlers"/>
         <variable
             name="book"
-            type="com.androidtutz.anushka.ebookshop.model.Book"/>
+            type="com.androidlearn.akshay.ebookshop.model.Book"/>
     </data>
     <android.support.constraint.ConstraintLayout
 
