@@ -6,7 +6,7 @@ android {
         enabled = true
     }
     defaultConfig {
-        applicationId "com.androidtutz.anushka.ebookshop"
+        applicationId "com.androidlearn.akshay.ebookshop"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
